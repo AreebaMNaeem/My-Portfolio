@@ -947,7 +947,7 @@ header .navbar ul li a:hover {
   display: flex;
   justify-content: center; /* Align icons in the center */
   gap: 50px; /* Space between social media icons */
-  margin-right: 5px;
+  margin-right: 120px;
 }
 
 .footer .box .share a {
