@@ -168,7 +168,7 @@ header .navbar ul li a:hover {
     padding: 1rem;
     text-align: left;
     color: black;
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   header .navbar ul li a.active,
@@ -349,13 +349,14 @@ header .navbar ul li a:hover {
   }
 
   .home .content h2 {
-    font-size: 5rem;
+    font-size: 4rem;
     margin-bottom: 1rem; /* Add space below h2 */
   }
 
   .home .content p {
     font-size: 3rem;
     margin-bottom: 1.5rem; /* Add more space below p */
+    line-height: normal;
   }
 
   .home .image img {
@@ -505,7 +506,7 @@ header .navbar ul li a:hover {
 
   .about .row .image img {
     margin: 0 auto;
-    width: 40%;
+    width: 50%;
     height: auto;
     mix-blend-mode: normal;
   }
@@ -516,11 +517,11 @@ header .navbar ul li a:hover {
   }
 
   .about .row .content {
-    padding: 3rem 4rem;
+    padding: 3rem 1rem;
   }
 
   .about .row .content .box-container {
-    gap: 15;
+    gap: 10;
   }
 
   .about .row .content h3 {
@@ -551,6 +552,7 @@ header .navbar ul li a:hover {
   font-weight: 600;
   margin-top: 0.5rem;
   color: #333;
+  padding: 10px;
 }
 
 .education .box-container {
