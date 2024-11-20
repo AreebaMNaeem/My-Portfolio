@@ -1014,6 +1014,7 @@ header .navbar ul li a:hover {
     flex-wrap: wrap;
     gap: 10px; /* Smaller gap for mobile icons */
     justify-content: center;
+    margin-left: 115px;
   }
 
   .footer .box .share a {
