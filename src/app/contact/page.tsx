@@ -95,7 +95,7 @@ export default function Contact() {
       <div className="contact-info">
         <h2 className="contact-info-title">Contact Information</h2>
         <p className="contact-info-description">
-          You can also reach me via email at <a href="mailto:your.email@example.com"> your.email@example.com or use this form to share your thoughts and ideas. 
+          You can also reach me via email at <a href="mailto:your.email@example.com"> areebanaeem350@gmail.com or use this form to share your thoughts and ideas. 
           I'm always excited to collaborate and discuss new opportunities!</a>.
         </p >
         <p className="contact-info-description">
