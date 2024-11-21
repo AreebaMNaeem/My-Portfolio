@@ -98,22 +98,21 @@ export default function Home() {
             <span className="tag">Software Engineer | Web Developer</span>
 
             <p>
-              Hello! I'm Areeba Naeem, As a distinguished Web Developer, I excel
-              in the art of crafting impeccable digital experiences, leveraging
-              my profound expertise in Frontend Development, React, Firebase, and
-              WordPress. My fervor for UI/UX design ensures that each project I
-              undertake transcends mere functionality to achieve a harmonious blend
-              of aesthetic brilliance and intuitive user experience. Complementing my
-              core competencies, I possess a robust acumen in Digital Marketing and
-              Up-Work, enabling me to deliver holistic and strategic solutions that
-              propel success in the ever-evolving digital realm. Let us embark on a
-              journey to create extraordinary digital masterpieces together.
+            Hi, I’m Areeba Naeem, a passionate Frontend Developer with expertise in React, Next.js, and WordPress.
+            I specialize in crafting seamless and engaging web experiences that go beyond functionality, delivering 
+            intuitive and visually appealing designs.With a talent for UI design using Figma, I ensure that every 
+            interface is both user-friendly and aesthetically refined. Additionally, my content writing skills allow
+            me to effectively communicate ideas, creating a strong connection between design and functionality.I am 
+            committed to innovation and excellence, striving to deliver solutions that cater to the evolving needs 
+            of users and businesses alike. Whether it’s developing websites or collaborating on creative projects,
+            I aim to make a meaningful impact in the digital space.Let’s work together to transform your vision 
+            into reality and create something extraordinary!
             </p>
 
             <div className="box-container">
               <div className="box">
                 <p>
-                  <span>Age: </span> 17
+                  <span>Age: </span> 20
                 </p>
                 <p>
                   <span>Phone: </span> +92 349-130-3247
@@ -121,10 +120,10 @@ export default function Home() {
               </div>
               <div className="box">
                 <p>
-                  <span>Email: </span> areeban@domain.com
+                  <span>Email: </span> areebanaeem350@gmail.com
                 </p>
                 <p>
-                  <span>Place: </span> Shah Faisal Colony, Karachi, Pakistan
+                  <span>Place: </span> Karachi, Pakistan
                 </p>
               </div>
             </div>
